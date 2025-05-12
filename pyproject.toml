@@ -1,0 +1,9 @@
+[project]
+name = "demo-storage-reader"
+version = "0.1.0"
+description = "A Gradio application that displays lates articles from ArXiv"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gradio>=5.29.0",
+]

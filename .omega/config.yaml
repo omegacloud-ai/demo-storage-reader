@@ -1,0 +1,15 @@
+agent_id: null
+compute_size: cpu-xs
+disk_size: "8"
+env_file: null
+env_type: values
+env_values: {}
+fixed_name: arxiv
+job_schedule: ""
+job_subtype: python
+job_type: api
+platform_url: https://platform.omegacloud.ai
+services: {}
+storage:
+  - arxiv
+task_id: null
