@@ -5,7 +5,7 @@ import gradio as gr
 from utils import format_article, load_articles
 
 STORAGE_NAME = "arxiv"
-STORAGE_PATH = f"/tmp/{STORAGE_NAME}"
+STORAGE_PATH = f"/var/tmp/{STORAGE_NAME}"
 MAX_ARTICLES = 10
 
 
